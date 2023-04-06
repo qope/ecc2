@@ -1,0 +1,7 @@
+{
+  "rust-analyzer.linkedProjects": [
+    "./Cargo.toml",
+    "./snark-verifier/snark-verifier-sdk/Cargo.toml"
+  ],
+  "rust-analyzer.showUnlinkedFileNotification": false
+}
